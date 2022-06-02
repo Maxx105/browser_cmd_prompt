@@ -1,0 +1,29 @@
+body {
+ background-color: black;
+}
+
+#input {
+    margin: 10px;
+}
+
+#button-text {
+    font-family: 'Courier';
+}
+
+#cmd {
+    background-color: black;
+    color: white;
+    font-family: 'Courier';
+}
+
+#response {
+    display: inline-block;
+    font-family: 'Courier';
+    font-weight: bold;
+    background: rgb(44, 44, 44);
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
